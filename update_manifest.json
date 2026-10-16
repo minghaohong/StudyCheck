@@ -1,0 +1,11 @@
+{
+  "version": "0.5.0",
+  "download_url": "https://github.com/minghaohong/StudyCheck/releases/download/v0.5.0/StudyCheckSetup-v0.5.0.exe",
+  "fallback_url": "https://xn--0trse316ksta.top/updates/StudyCheckSetup-v0.5.0.exe",
+  "file_name": "StudyCheckSetup-v0.5.0.exe",
+  "sha256": "4d6aec2894c95826fdc59202c4a14ebe6bfd1e5301d6d70bd6c48f658f577c08",
+  "changelog": "v0.5.0：在线更新优先使用 GitHub Releases，失败后自动切换腾讯云；支持断点续传、SHA-256 校验，更新过程不弹黑色命令窗口。学习任务和提交继续连接腾讯云。",
+  "force_update": false,
+  "file_size_bytes": 134885358,
+  "updated_at": "2026-10-16 21:07:00+08:00"
+}
