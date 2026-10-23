@@ -1,11 +1,15 @@
 {
-  "version": "0.5.0",
-  "download_url": "https://github.com/minghaohong/StudyCheck/releases/download/v0.5.0/StudyCheckSetup-v0.5.0.exe",
-  "fallback_url": "https://xn--0trse316ksta.top/updates/StudyCheckSetup-v0.5.0.exe",
-  "file_name": "StudyCheckSetup-v0.5.0.exe",
-  "sha256": "4d6aec2894c95826fdc59202c4a14ebe6bfd1e5301d6d70bd6c48f658f577c08",
-  "changelog": "v0.5.0：在线更新优先使用 GitHub Releases，失败后自动切换腾讯云；支持断点续传、SHA-256 校验，更新过程不弹黑色命令窗口。学习任务和提交继续连接腾讯云。",
-  "force_update": false,
-  "file_size_bytes": 134885358,
-  "updated_at": "2026-10-16 21:07:00+08:00"
+    "changelog":  "v0.7.13（稳定版）：抖音独立插件下载（headless 无窗口，200/200 真实抓流、五类真实下载可解码可播放、失败明确错误码）；四套主题状态修复；首页“同步云端”按钮与后端作业同步；作答时限按天/多视频绝对窗口规则；无题目状态修复；随包分发第三方许可证（ffmpeg GPLv3 等）。",
+    "force_update":  false,
+    "version":  "0.7.13",
+    "download_url":  "https://github.com/minghaohong/StudyCheck/releases/download/v0.7.13/StudyCheckSetup-v0.7.13.exe",
+    "fallback_url":  "https://xn--0trse316ksta.top/updates/StudyCheckSetup-v0.7.13.exe",
+    "file_name":  "StudyCheckSetup-v0.7.13.exe",
+    "sha256":  "953549a089e252af400d192629019a243b230ecce95ae680a9996f60d6e30821",
+    "file_size_bytes":  136012473,
+    "updated_at":  "2026-10-23 22:26:03+08:00",
+    "portable_url":  "https://github.com/minghaohong/StudyCheck/releases/download/v0.7.13/StudyCheck-v0.7.13-portable.zip",
+    "portable_fallback_url":  "https://xn--0trse316ksta.top/updates/StudyCheck-v0.7.13-portable.zip",
+    "portable_sha256":  "d9b17e4ddd582848d2b8b45f89eda0d3b990c9a51f0f451073d60fda240ed9bd",
+    "portable_size_bytes":  148254023
 }
